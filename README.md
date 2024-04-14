@@ -1,7 +1,7 @@
 
 # Minecraft Item Speedrun Plugin
 
-This plugin is a mini-game speedrun developed for Minecraft. It was designed and developed by Simon Delcuze, Albin Vanden-Broeck, and Louis Truptil. The game starts with a random selection of a target item. The first player to obtain this item wins the race. PvP is allowed, and all tricks are fair game to win.
+This plugin is a mini-game speedrun developed for Minecraft. It was designed and developed by Louis Truptil, Albin Vanden-Broeck, and Simon Delcuze. The game starts with a random selection of a target item. The first player to obtain this item wins the race. PvP is allowed, and all tricks are fair game to win.
 
 ## License
 
@@ -21,7 +21,7 @@ To install Item Speedrun, follow these simple steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/SimonDelcuze/ItemSpeedrun.git
+   git clone [https://github.com/louistruptil/ItemSpeedrun}
    ```
 To install this plugin, simply place the `.jar` files which are in the "plugins" file in the `plugins` folder of your Minecraft server and restart the server.
 If you change the source code , you need to replace the "Item Speedrun.Jar" by the new ".Jar" that you created.
